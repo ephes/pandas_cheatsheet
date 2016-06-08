@@ -1,0 +1,12 @@
+name: pandas_cheatsheet
+dependencies:
+- python
+- pandas
+- jupyter
+- matplotlib
+- requests
+- joblib
+- seaborn
+- pip
+- pytest
+- flake8
