@@ -10,3 +10,4 @@ dependencies:
 - pip
 - pytest
 - flake8
+- scikit-learn
